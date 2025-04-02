@@ -1,0 +1,256 @@
+# depslib dependency file v1.0
+1700497365 source:c:\projetos\c\jogo_aviao\joao_aviao\main.c
+	<curses.h>
+	<stdlib.h>
+	<time.h>
+	"aviao.h"
+	<windows.h>
+
+1642209066 c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\common\pdcurses.rc
+	<windows.h>
+	"../curses.h"
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\addch.c
+	<curspriv.h>
+
+1642209066 c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\curspriv.h
+	<curses.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\addchstr.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\addstr.c
+	<curspriv.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\attr.c
+	<curspriv.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\beep.c
+	<curspriv.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\bkgd.c
+	<curspriv.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\border.c
+	<curspriv.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\clear.c
+	<curspriv.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\color.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\debug.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<time.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\delch.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\deleteln.c
+	<curspriv.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\getch.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\getstr.c
+	<curspriv.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\getyx.c
+	<curspriv.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\inch.c
+	<curspriv.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\inchstr.c
+	<curspriv.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\initscr.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\inopts.c
+	<curspriv.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\insch.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\insstr.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\instr.c
+	<curspriv.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\kernel.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\keyname.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\mouse.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\move.c
+	<curspriv.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\outopts.c
+	<curspriv.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\overlay.c
+	<curspriv.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\pad.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\panel.c
+	<curspriv.h>
+	<panel.h>
+	<stdlib.h>
+
+1642209066 c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\panel.h
+	<curses.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\printw.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\refresh.c
+	<curspriv.h>
+	<string.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\scanw.c
+	<curspriv.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<limits.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\scr_dump.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\scroll.c
+	<curspriv.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\slk.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\termattr.c
+	<curspriv.h>
+	<string.h>
+	<limits.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\touch.c
+	<curspriv.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\util.c
+	<curspriv.h>
+	<stdlib.h>
+	<string.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\pdcurses\window.c
+	<curspriv.h>
+	<stdlib.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\wincon\pdcclip.c
+	"pdcwin.h"
+	<string.h>
+
+1642209066 c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\wincon\pdcwin.h
+	<windows.h>
+	<curspriv.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\wincon\pdcdisp.c
+	"pdcwin.h"
+	<stdlib.h>
+	<string.h>
+	"../common/acsuni.h"
+	"../common/acs437.h"
+
+1642209066 c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\common\acsuni.h
+
+1642209066 c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\common\acs437.h
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\wincon\pdcgetsc.c
+	"pdcwin.h"
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\wincon\pdckbd.c
+	"pdcwin.h"
+
+1699810301 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\wincon\pdcscrn.c
+	"pdcwin.h"
+	<stdlib.h>
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\wincon\pdcsetsc.c
+	"pdcwin.h"
+
+1642209066 source:c:\projetos\c\jogo_aviao\joao_aviao\pdcurses\wincon\pdcutil.c
+	"pdcwin.h"
+
+1700495715 source:c:\projetos\c\jogo_aviao\joao_aviao\tela_jogo.c
+	"aviao.h"
+	<stdio.h>
+	<curses.h>
+	<time.h>
+
+1700495884 c:\projetos\c\jogo_aviao\joao_aviao\aviao.h
+
+1700495715 source:c:\projetos\c\jogo_aviao\joao_aviao\configs_iniciais.c
+	"aviao.h"
+	<stdio.h>
+	<curses.h>
+
+1700495715 source:c:\projetos\c\jogo_aviao\joao_aviao\meteoros.c
+	"aviao.h"
+	<stdio.h>
+	<curses.h>
+	<time.h>
+
+1700404039 source:c:\projetos\c\jogo_aviao\joao_aviao\arquivos.c
+	"aviao.h"
+	<stdio.h>
+	<curses.h>
+	<time.h>
+
+1700496176 source:c:\projetos\c\jogo_aviao\joao_aviao\destruir_meteoros.c
+	"aviao.h"
+	<stdio.h>
+	<curses.h>
+	<time.h>
+	<windows.h>
+
+1700495715 source:c:\projetos\c\jogo_aviao\joao_aviao\inicio.c
+	<curses.h>
+	<stdio.h>
+	<stdlib.h>
+	"aviao.h"
+
+1700495715 source:c:\projetos\c\jogo_aviao\joao_aviao\pontuacao.c
+	<curses.h>
+	<stdio.h>
+	<stdlib.h>
+	"aviao.h"
+
